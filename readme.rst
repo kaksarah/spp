@@ -68,3 +68,35 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+CodeIgniter adalah sebuah Kerangka Pengembangan Aplikasi - toolkit - untuk orang-orang yang membangun situs web menggunakan PHP. Tujuannya adalah memungkinkan Anda mengembangkan proyek lebih cepat daripada jika Anda menulis kode dari awal, dengan menyediakan seperangkat perpustakaan kaya untuk tugas-tugas yang umumnya dibutuhkan, serta antarmuka yang sederhana dan struktur logis untuk mengakses perpustakaan-perpustakaan ini. CodeIgniter memungkinkan Anda fokus secara kreatif pada proyek Anda dengan meminimalkan jumlah kode yang diperlukan untuk tugas tertentu.
+
+Informasi Rilis:
+Repo ini berisi kode dalam pengembangan untuk rilis mendatang. Untuk mengunduh rilis stabil terbaru, silakan kunjungi halaman `Unduhan CodeIgniter
+<https://codeigniter.com/download>`_.
+
+Perubahan dan Fitur Baru:
+Anda dapat menemukan daftar semua perubahan untuk setiap rilis dalam `log perubahan panduan pengguna <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+
+Persyaratan Server:
+Disarankan menggunakan versi PHP 5.6 atau yang lebih baru. Meskipun seharusnya berfungsi pada PHP 5.3.7, kami sangat menyarankan Anda TIDAK menjalankan versi PHP yang begitu lama karena masalah keamanan dan kinerja potensial, serta fitur yang hilang.
+
+Instalasi:
+Silakan lihat bagian `panduan instalasi <https://codeigniter.com/user_guide/installation/index.html>`_
+di Panduan Pengguna CodeIgniter.
+
+Lisensi:
+Silakan lihat `perjanjian lisensi <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+
+Sumber Daya:
+-  `Panduan Pengguna <https://codeigniter.com/docs>`_
+-  `Terjemahan Berkas Bahasa <https://github.com/bcit-ci/codeigniter3-translations>`_
+-  `Forum Komunitas <http://forum.codeigniter.com/>`_
+-  `Wiki Komunitas <https://github.com/bcit-ci/CodeIgniter/wiki>`_
+-  `Saluran Slack Komunitas <https://codeigniterchat.slack.com>`_
+
+Laporkan masalah keamanan ke `Panel Keamanan kami <mailto:security@codeigniter.com>`_
+atau melalui `halaman kami di HackerOne <https://hackerone.com/codeigniter>`_, terima kasih.
+
+Pengakuan:
+Tim CodeIgniter ingin berterima kasih kepada EllisLab, semua kontributor proyek CodeIgniter, dan Anda, pengguna CodeIgniter.
